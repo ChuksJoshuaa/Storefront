@@ -40,7 +40,7 @@ In our case, we have one single resource, `store`, so we will use the following 
 
 ## Use
 
-We can test the API using [Postman](https://www.postman.com/)
+We can test the API using [Postman](https://www.postman.com/).
 
 Postman, it is an HTTP client that tests HTTP requests, utilizing a graphical user interface, through which we obtain different types of responses that need to be subsequently validated.
 
