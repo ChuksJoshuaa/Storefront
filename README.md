@@ -60,7 +60,7 @@ http  http://127.0.0.1:8000/auth/users
 
 After we create an account we can use those credentials to get a token
 
-To get a token first we need to request
+To get a token first we need to request.
 
 ```
 http http://127.0.0.1:8000/auth/jwt/create
