@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 In a RESTful API, endpoints (URLs) define the structure of the API and how end users access data from our application using the HTTP methods - GET, POST, PUT, DELETE.
 
-In our case, we have one single resource, `store`, so we will use the following URLS - `/store/products/` and `/store/collections/` for getting the list of products and their respective collections
+In our case, we have one single resource, `store`, so we will use the following URLS - `/store/products/` and `/store/collections/` for getting the list of products and their respective collections.
 
 | Endpoint             | HTTP Method | CRUD Method | Result               |
 | -------------------- | ----------- | ----------- | -------------------- |
