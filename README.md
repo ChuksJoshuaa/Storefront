@@ -1,5 +1,3 @@
-# Building an Ecommerce store Restful Api WITH DJANGO REST FRAMEWORK
-
 [Django REST framework](http://www.django-rest-framework.org/) is a powerful and flexible toolkit for building Web APIs.
 
 ## Requirements
@@ -11,7 +9,7 @@
 ## Installation
 
 After you clone the repository, you want to create a virtual environment, so you have a clean python installation.
-You can do this by running the command
+You can do this by running the command.
 
 ```
 python -m venv env
