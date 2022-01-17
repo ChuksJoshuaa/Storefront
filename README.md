@@ -17,7 +17,7 @@ python -m venv env
 
 After this, it is necessary to activate the virtual environment, you can get more information about this [here](https://docs.python.org/3/tutorial/venv.html)
 
-You can install all the required dependencies by running
+You can install all the required dependencies by running.
 
 ```
 pip install -r requirements.txt
