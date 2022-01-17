@@ -30,6 +30,3 @@ class WebsiteUser(HttpUser):
         response = self.client.post('/store/carts/')
         result = response.json()
         self.cart_id = result['id']
-
-# we use this to run the locust code
-# locust -f locustfile/browse_products.py
